@@ -1,0 +1,12 @@
+{
+    "nome": "Matthew",
+    "time": "math",
+    "vivo": "True",
+    "energia": 100,
+    "mochila": ["perderneira", "corda", "linha", "arame"],
+    "aeronaves": [
+        { "tipo": "transporte", "habilidades": 80 },
+        { "tipo": "ataque", "habilidades": 100 },
+        { "tipo": "reconhecimento", "habilidades": 50 }
+    ]
+}
